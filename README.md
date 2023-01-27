@@ -1,6 +1,6 @@
 ## Hallo Github!  <img src="https://cdn.discordapp.com/emojis/1067767314587586560.webp?size=96&quality=lossless" width="25px"> <img src="https://komarev.com/ghpvc/?username=DanielAtlas&label=Numbers%20of%20visitors&color=ff4600" alt="DanielAtlas" />
 
-- 🗽 Hallo, ich bin Bora Büyükkör. Ich bin 20 Jahre alt. Ich benutze Discord seit 4 Jahren. Ich codiere seit 3 Jahren bots und programme. Ich esse gerne, spiele basketball und tennis. Sie können mich für alles kontaktieren, was Sie lernen oder fragen möchten. **[Daniel Atlas#1004](https://discord.com/users/587651629944274944)**. Mach's gut !
+- 🗽 Hallo, ich bin Bora Büyükkör. Ich bin 20 Jahre alt. Ich benutze Discord seit 4 Jahren. Ich codiere seit 3 Jahren bots und programme. Ich esse gerne, spiele basketball und tennis. Sie können mich für alles kontaktieren, was Sie lernen oder fragen möchten. **[Daniel Atlas#1004](https://discord.com/users/587651629944274944)**. Wir sehen uns, Daniel Atlas liebt dich !
 
 
  
