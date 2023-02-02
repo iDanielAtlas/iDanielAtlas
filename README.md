@@ -6,7 +6,7 @@
  
 [![Discord Presence](https://lanyard.cnrad.dev/api/587651629944274944)](https://discord.com/users/587651629944274944)
 
-## 💎 Languages and Tools
+## 💎 Sprachen und Tools / Languages and Tools
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -14,7 +14,7 @@
 ![CSS](https://img.shields.io/badge/css-0000ff?style=for-the-badge&logo=CSS3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-ffffff?style=for-the-badge&logo=SQL#&logoColor=white)
 
-## 📱 Social Media Accounts
+## 📱 Social-Media-Konten / Social Media Accounts
 <p align="left">
 <a href="https://twitch.tv/twastyvlr" target"blank_"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
 <a href="https://open.spotify.com/user/gh7yosi5g5w3vfrwhu071396w?si=1a74edbb8b004949" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
