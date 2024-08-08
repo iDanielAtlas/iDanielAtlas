@@ -16,10 +16,8 @@
 
 ## 📱 Social-Media-Konten / Social Media Accounts
 <p align="left">
-<a href="https://twitch.tv/twastyvlr" target"blank_"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
 <a href="https://open.spotify.com/user/gh7yosi5g5w3vfrwhu071396w?si=1a74edbb8b004949" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 <a href="https://discord.com/users/587651629944274944" target"blank_"><img src="https://img.shields.io/badge/Discord-0a032c?style=for-the-badge&logo=discord&logoColor=white"></a>
- <a href="https://www.tiktok.com/@twastyvlr" target"blank_"><img src="https://img.shields.io/badge/TikTok-2c0327?style=for-the-badge&logo=tiktok&logoColor=white"></a>
 </p>
 
 <h1 style="font-size:35%;"><img src = "https://cdn.discordapp.com/emojis/1067767551393796096.webp?size=96&quality=lossless" high="25px" width="40px"> Daniel Atlas</h1>
